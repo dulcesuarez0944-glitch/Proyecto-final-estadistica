@@ -1,0 +1,11 @@
+Medida,Valor,Interpretación
+Mínimo,8282.73,Valor comercial más bajo registrado
+Máximo,681004300.0,Valor comercial más alto registrado
+Rango,680996017.27,Amplitud total de la distribución
+Q1 (25%),1131977.5750000002,25% de los valores están por debajo
+Q3 (75%),7363289.375,75% de los valores están por debajo
+Rango Intercuartílico,6231311.8,Dispersión del 50% central de los datos
+Varianza,4148986167084952.5,Promedio de las desviaciones al cuadrado
+Desviación Estándar,64412624.283481516,Dispersión promedio respecto a la media
+Desviación Media,22776623.54068713,Promedio de desviaciones absolutas
+Coeficiente de Variación (%),379.706217308848,Variabilidad relativa respecto a la media
